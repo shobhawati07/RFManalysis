@@ -25,7 +25,8 @@ Best Monetary score = 4: spent the most.
 
 Finally created RFM score combining Recency score ,frequnecy score and monetary score together.
 ## Data Visulaization: To visulize the data we are using here PyGWalker, Python library which gives a tableau envoirment for our dataframe in jupyter or google colab.
-
+this  is google colab link :
+https://colab.research.google.com/drive/1A_b79ky4wNOKiJnqd5VYT5QK2YX9JCxP?usp=sharing
 
 
 
