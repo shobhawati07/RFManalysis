@@ -24,7 +24,7 @@ Best Frequency score = 4: most quantity purchase.
 Best Monetary score = 4: spent the most.
 
 Finally created RFM score combining Recency score ,frequnecy score and monetary score together.
-## Data Visulaization: To visulize the data we are using here PyGWalker,Python library which gives a tableau envoirment for our dataframe in jupyter or google colab.
+## Data Visulaization: To visulize the data we are using here PyGWalker, Python library which gives a tableau envoirment for our dataframe in jupyter or google colab.
 
 
 
